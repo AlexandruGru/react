@@ -1,0 +1,1 @@
+export const convertDate = (number) => new Date(number * 1000).toLocaleDateString("en-UK", { day: "numeric", year: "numeric", month: "short" })

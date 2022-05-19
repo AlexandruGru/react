@@ -1,0 +1,10 @@
+.day-page-container {
+    width: 60%;
+    height: 45%;
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}

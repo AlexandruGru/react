@@ -1,0 +1,17 @@
+.reducer-container {
+  width: 18%;
+  background: rgb(210, 204, 204);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border-radius: 3px;
+}
+.reducer-title {
+    font-size: 18px;
+    margin: 5px 0;
+}
+.reducer-button {
+    width: 50%;
+    margin: 10px 0;
+}
